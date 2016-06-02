@@ -1,0 +1,19 @@
+{
+  "name": "jquery-bgterminal",
+  "version": "1.0.0",
+  "description": "A Terminal like background-typing animation plugin for jQuery.",
+  "main": "jquery.bgterminal.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davidecassenti/jquery-bgterminal.git"
+  },
+  "author": "Davide Cassenti",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/davidecassenti/jquery-bgterminal/issues"
+  },
+  "homepage": "https://davidecassenti.github.io/jquery-bgterminal/"
+}
